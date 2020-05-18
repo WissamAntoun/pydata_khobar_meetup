@@ -1,5 +1,5 @@
 # PyData Khobar Presentation Repo
-<img src="https://github.com/WissamAntoun/pydata_khobar_meetup/EYJUkxbWAAYQYWq.jpg" align="center">
+<img src="https://github.com/WissamAntoun/pydata_khobar_meetup/blob/master/EYJUkxbWAAYQYWq.jpg" align="center">
 
 Link to the recording will be available soon
 
