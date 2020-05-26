@@ -1,4 +1,5 @@
 # PyData Khobar Presentation Repo
+<img src="https://github.com/aub-mind/arabert/blob/master/arabert_logo.png" width="100" align="left"/> 
 <img src="https://github.com/WissamAntoun/pydata_khobar_meetup/blob/master/EYJUkxbWAAYQYWq.jpg" align="center">
 
 Link to the recording will be available soon
