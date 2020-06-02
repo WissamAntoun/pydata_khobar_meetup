@@ -1,7 +1,7 @@
 # PyData Khobar Presentation Repo
 <img src="https://github.com/WissamAntoun/pydata_khobar_meetup/blob/master/EYJUkxbWAAYQYWq.jpg" align="center">
 
-Link to the recording will be available soon
+Link to the recording: https://www.youtube.com/watch?v=N9pQ3CZ0v6U&feature=youtu.be
 
 Link to Talk Announcment: https://twitter.com/PydataKhobar/status/1261663845082378241
 
@@ -13,6 +13,6 @@ link to Classification colab: https://colab.research.google.com/drive/1WhewqK_sF
 
 Demo using Pytorch: https://colab.research.google.com/drive/14QHSaXv25MCRCQL8PdcscNJ4-0ym1aIG?usp=sharing  
 
-Comming soon: Demo using HuggingFace Trainers
+Comming soon: https://github.com/aub-mind/arabert/blob/master/examples/AraBERT_Text_Classification_with_HF_Trainer_Pytorch_GPU.ipynb 
 
 link to AraBERT: https://github.com/aub-mind/arabert
