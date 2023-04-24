@@ -14,6 +14,6 @@ link to Classification colab: https://colab.research.google.com/drive/1WhewqK_sF
 
 Demo using Pytorch: https://colab.research.google.com/drive/14QHSaXv25MCRCQL8PdcscNJ4-0ym1aIG?usp=sharing  
 
-Comming soon: https://github.com/aub-mind/arabert/blob/master/examples/AraBERT_Text_Classification_with_HF_Trainer_Pytorch_GPU.ipynb 
+Comming soon: https://github.com/aub-mind/arabert/blob/master/examples/old/AraBERT_Text_Classification_with_HF_Trainer_Pytorch_GPU.ipynb 
 
 link to AraBERT: https://github.com/aub-mind/arabert
